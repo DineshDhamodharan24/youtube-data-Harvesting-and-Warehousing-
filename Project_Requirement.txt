@@ -1,0 +1,5 @@
+pandas --> version 1.5.3
+Streamlit --> version 1.19.0
+pymongo --> version 4.5.0
+google-api-python-client --> version 2.91.0
+Plotly --> version 5.17.0

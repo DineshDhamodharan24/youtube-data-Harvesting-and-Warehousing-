@@ -17,11 +17,11 @@ st.set_page_config(page_title="YouTube WereHouse",layout="wide")
 left_column, right_column = st.columns(2)
 
 # config for youtube API
-api_key = 'AIzaSyCaFUxKnpupwgjCIRspJyqf9v5brozYHtg'
+api_key = "<Give your api_key>"
 
 # connection  mongoDb
-username = "dinesh" 
-password = "Din@9600" 
+username = "<your mongodb username>" 
+password = "<your mongodb password>" 
 
 encoded_username = urllib.parse.quote_plus(username)
 encoded_password = urllib.parse.quote_plus(password)
@@ -47,7 +47,7 @@ collection = db['testing_data']
 db_connection = sql.connect(
     host="localhost",
     user="root",
-    password="Din@9600",
+    password="<password>",
     database="youtubedata"
 )
 mycursor = db_connection.cursor(buffered=True)

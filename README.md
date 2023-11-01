@@ -57,6 +57,8 @@ It highlights how Plotly enables the creation of a variety of charts to enhance 
 
 In summary, this project leverages the Google API to collect, store, and analyze data from YouTube channels, making it accessible through a user-friendly Streamlit application. With MongoDB for initial storage and MySQL for structured data warehousing, users can seamlessly transition and explore data. The integration of Plotly empowers users to create insightful visualizations, enhancing data understanding and enabling data-driven decision-making. This comprehensive approach streamlines the entire process, making it a valuable tool for data enthusiasts and analysts.
 
+**User Interface**
+
 
 ![image](https://github.com/DineshDhamodharan24/youtube-data-Harvesting-and-Warehousing-/assets/142207421/372f7300-a446-47f4-813d-14bfda413c11)
 

@@ -14,11 +14,12 @@ This project involves creating a user-friendly Streamlit application that utiliz
 * Plotly
 
 **Installation**
+
 To run this project, you need to install the following packages:
    
- pip install google-api-python-client
- pip install pymongo
- pip install pandas
- pip install pymysql
- pip install streamlit
- pip install plotly
+    pip install google-api-python-client
+    pip install pymongo
+    pip install pandas
+    pip install pymysql
+    pip install streamlit
+    pip install plotly
